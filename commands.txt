@@ -1,0 +1,4 @@
+git init
+git config --global user.name "kumarvikash0894"
+git config --global user.email "vik.raraavis001@gmail.com"
+touch commands.txt --to create file
